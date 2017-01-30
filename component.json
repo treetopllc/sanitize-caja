@@ -1,0 +1,11 @@
+{
+  "name": "sanitize-caja",
+  "repo": "treetopllc/sanitize-caja",
+  "version": "0.0.0",
+  "description": "sanitize html using caja and reasonable assumptions",
+  "main:": "index.js",
+  "scripts": [
+    "index.js",
+    "sanitizer-bundle.js"
+  ]
+}
